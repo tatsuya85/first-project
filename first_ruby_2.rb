@@ -6,5 +6,6 @@ def age_check(age)
     elsif age <= 28
     puts "私より年下です"
     end
+    puts "初めてのGit Hub"
 
 end
